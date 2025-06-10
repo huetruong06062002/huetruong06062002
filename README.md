@@ -1,6 +1,6 @@
 # 👨‍💻 **Developer Profile**
 
-Hello! I’m a software developer passionate about building impactful applications and working with cutting-edge technologies. With over 3 years of experience in web and mobile app development, I’ve worked with a wide range of tools and technologies. Here are some of my favorite and currently used tech stacks:
+Hello! I’m a software developer passionate about building impactful applications and working with cutting-edge technologies. With over 1 years of experience in web and mobile app development, I’ve worked with a wide range of tools and technologies. Here are some of my favorite and currently used tech stacks:
 
 ---
 
